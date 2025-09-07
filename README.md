@@ -36,15 +36,6 @@ I’m **Ashik Hosen**, a passionate WordPress Developer with 5+ years of experie
 | 🔐 **Membership Systems** | Subscription websites with gated content & secure login |
 | ⚡ **Speed & SEO Optimization** | Blazing-fast, search-friendly websites |
 
----
-
-## 🚀 Featured Projects  
-
-- 🔧 [**LMS Helper Plugin**](#) → Lightweight tool for managing online courses  
-- 🔧 [**Membership Lite**](#) → Simple membership add-on for WordPress  
-- 🔧 [**Woo Extra Tools**](#) → Handy WooCommerce improvements  
-
----
 
 ## 💬 Testimonials  
 
