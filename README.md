@@ -38,50 +38,11 @@ I’m **Ashik Hosen**, a passionate WordPress Developer with 5+ years of experie
 
 ---
 
-## 📂 Portfolio  
-
-✨ Some examples of the types of websites I’ve built:  
-
-<p align="center">
-  <img src="https://via.placeholder.com/250x150.png?text=LMS+Website" />
-  <img src="https://via.placeholder.com/250x150.png?text=Membership+Site" />
-  <img src="https://via.placeholder.com/250x150.png?text=Ecommerce+Store" />
-  <img src="https://via.placeholder.com/250x150.png?text=Business+Website" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ashikhosen?tab=repositories">
-    <img src="https://img.shields.io/badge/🔍%20Explore%20More%20Projects-brightgreen?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
 ## 🚀 Featured Projects  
 
 - 🔧 [**LMS Helper Plugin**](#) → Lightweight tool for managing online courses  
 - 🔧 [**Membership Lite**](#) → Simple membership add-on for WordPress  
 - 🔧 [**Woo Extra Tools**](#) → Handy WooCommerce improvements  
-
----
-
-## 📊 My Track Record  
-
-<p align="center">
-  <b>150+</b> ⭐ 5-Star Reviews &nbsp; | &nbsp; 
-  <b>250+</b> 📂 Projects Completed &nbsp; | &nbsp; 
-  <b>50+</b> 🔌 Free Tools Uploaded &nbsp; | &nbsp; 
-  <b>5+</b> 🕔 Years of Experience
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashikhosen&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikhosen&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikhosen&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 ---
 
