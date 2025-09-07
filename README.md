@@ -3,11 +3,14 @@
 <h3 align="center">🚀 WordPress Expert | LMS & Membership Specialist | Plugin Developer</h3>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ashikhosenpro@gmail.com">
     <img src="https://img.shields.io/badge/📩%20Book%20a%20Free%20Call-blue?style=for-the-badge"/>
   </a>
-  <a href="https://linkedin.com/in/ashikhosen">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge"/>
+  <a href="https://www.upwork.com/freelancers/~0149dca64e097bb32f">
+    <img src="https://img.shields.io/badge/💼%20Hire%20Me%20on%20Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/8801728827863">
+    <img src="https://img.shields.io/badge/💬%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
@@ -47,7 +50,7 @@ I’m **Ashik Hosen**, a passionate WordPress Developer with 5+ years of experie
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username?tab=repositories">
+  <a href="https://github.com/ashikhosen?tab=repositories">
     <img src="https://img.shields.io/badge/🔍%20Explore%20More%20Projects-brightgreen?style=for-the-badge"/>
   </a>
 </p>
@@ -72,12 +75,12 @@ I’m **Ashik Hosen**, a passionate WordPress Developer with 5+ years of experie
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashikhosen&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikhosen&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikhosen&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -98,7 +101,7 @@ I’m **Ashik Hosen**, a passionate WordPress Developer with 5+ years of experie
 A: WordPress websites, LMS, membership, WooCommerce, speed optimization & more.  
 
 **Q: How can I start a project with you?**  
-A: Just reach out via email or LinkedIn and we’ll discuss your goals.  
+A: Reach out on **[Upwork](https://www.upwork.com/freelancers/~0149dca64e097bb32f)**, email me at **ashikhosenpro@gmail.com**, or ping me on **[WhatsApp](https://wa.me/8801728827863)**.  
 
 **Q: Can I see examples of your previous work?**  
 A: Yes! Check my repositories and portfolio section above.  
@@ -111,14 +114,14 @@ A: It depends on complexity — usually between **1 to 3 weeks**.
 ## 📞 Contact Me  
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ashikhosenpro@gmail.com">
     <img src="https://img.shields.io/badge/📩%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/ashikhosen">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.upwork.com/freelancers/~0149dca64e097bb32f">
+    <img src="https://img.shields.io/badge/💼%20Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/🌍%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  <a href="https://wa.me/8801728827863">
+    <img src="https://img.shields.io/badge/💬%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
